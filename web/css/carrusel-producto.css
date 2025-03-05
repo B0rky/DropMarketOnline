@@ -1,0 +1,19 @@
+.carousel-container {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    width: 100%; /* Ajuste al tamaño del contenedor */
+    margin-right: -60vw;
+    margin-bottom: -80vh;
+}
+
+.carousel-item {
+    width: 380px; /* Tamaño reducido de las imágenes */
+    margin-right: 50px; /* Espaciado entre productos */
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item img {
+    width: 100%; /* Imagen ajustada a 280px */
+    height: auto;
+}
