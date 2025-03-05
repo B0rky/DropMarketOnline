@@ -24,8 +24,8 @@
     width: calc(160%); /* 8 productos originales + 8 productos clonados */
     position: relative;
     transition: transform 0.6s ease;
+    margin-top: 0vh;
     gap: 50px;
-    margin-top: -50px;
 }
 
 #carrusel .tarjeta {
@@ -37,6 +37,7 @@
     background: rgb(223, 223, 223);
     border: none;
     position: relative;
+    margin-top: 0vh;
     display: grid;
     align-items: end;
     justify-content: left;
