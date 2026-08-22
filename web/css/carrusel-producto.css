@@ -4,7 +4,7 @@
     overflow: hidden;
     width: 100%; /* Ajuste al tamaño del contenedor */
     margin-right: -60vw;
-    margin-bottom: -60vh;
+    margin-bottom: -20vh;
 }
 
 .carousel-item {
