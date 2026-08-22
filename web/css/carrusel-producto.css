@@ -15,5 +15,5 @@
 
 .carousel-item img {
     width: 100%; /* Imagen ajustada a 280px */
-    height: fit content;
+    height: auto;
 }
