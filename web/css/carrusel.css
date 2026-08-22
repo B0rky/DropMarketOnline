@@ -25,7 +25,7 @@
     position: relative;
     transition: transform 0.6s ease;
     margin-top: 25vh;
-    gap: 50px;
+    gap: 0px;
 }
 
 #carrusel .tarjeta {
