@@ -2,7 +2,7 @@
     height: 78vh;
     width: fit-content;
     margin: auto;
-    position: absolute;
+    position: relative;
     margin-top: 140px;
     z-index: 20;
 }
