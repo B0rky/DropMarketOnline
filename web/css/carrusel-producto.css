@@ -5,6 +5,7 @@
     width: 100%; /* Ajuste al tamaño del contenedor */
     margin-right: -60vw;
     margin-bottom: -20vh;
+    z-index: 1;
 }
 
 .carousel-item {
