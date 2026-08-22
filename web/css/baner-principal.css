@@ -4,7 +4,7 @@
     margin: auto;
     position: relative;
     margin-top: 140px;
-    z-index: 0;
+    z-index: 20;
 }
 
 /* Contenido */
@@ -41,7 +41,7 @@
     color: aliceblue;
     background-color: black;
     transition: all 0.38s ease-in-out;
-    z-index: 2;
+    z-index: 20;
 }
 .bp-contenido button:hover {
     background-color: rgb(36, 36, 36);
